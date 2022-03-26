@@ -1,6 +1,8 @@
 ## Uju 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pepper_mis)](https://solved.ac/pepper_mis)
 
+I’m currently learning React and Spring🌱
+
 ### Tech Stack
 **Languages & Platforms**
 
@@ -9,13 +11,9 @@
 - ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 
 **Tools**
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Intelli J](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij)  
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook)
 - ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
 
---- 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=black-pepper)](https://github.com/black-pepper/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black-pepper)](https://github.com/black-pepper/github-readme-stats)  
 
 <!--
 **black-pepper/black-pepper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
