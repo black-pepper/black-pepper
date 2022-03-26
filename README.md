@@ -5,13 +5,13 @@ I’m currently learning React and Spring🌱
 
 ### Tech Stack
 **Languages & Platforms**
-
+ 
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
 - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+- ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)  
 
 **Tools**
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter-notebook)
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=IntelliJ-idea) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 - ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
 
 
