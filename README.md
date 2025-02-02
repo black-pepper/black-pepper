@@ -1,6 +1,6 @@
 ## Uju 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=pepper_mis)](https://solved.ac/pepper_mis)
-[![GitHub](https://img.shields.io/badge/-Tech%20Blog-333333?style=flat&logo=github)](https://black-pepper.github.io/)
+[![GitHub](https://img.shields.io/badge/-Tech%20Blog-333333?style=flat&logo=github)](https://black-pepper.github.io/blog)
 
 I’m currently learning React and Spring🌱
 
